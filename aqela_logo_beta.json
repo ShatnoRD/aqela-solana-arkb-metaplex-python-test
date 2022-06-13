@@ -1,0 +1,36 @@
+{
+    "name": "AqelaLogoBeta - DevNet",
+    "symbol": "aqlb",
+    "description": "",
+    "seller_fee_basis_points": 700, 
+    "image": "", 
+    "attributes": [
+      {
+        "trait_type": "cypher",
+        "value": "Divinity"
+      },
+      {
+        "trait_type": "game",
+        "value": "The Old Castle"
+      }
+    ],
+    "collection": {
+      "name": "The Old Castle",
+      "family": "SolCypher"
+    },
+    "properties": {
+      "files": [ 
+        {
+          "uri": "https://oabackuplocationofyourfile.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "bRk6V3yIvyRLQvJ2uIhE7scHM03zAdHAZS59KSJCfM4",
+          "share": 100
+        }
+      ]
+    }
+  }
